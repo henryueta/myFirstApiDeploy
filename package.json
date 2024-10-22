@@ -1,0 +1,19 @@
+{
+  "name": "apitest",
+  "version": "1.0.0",
+  "description": "My First Api Deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henryueta/myFirstApiDeploy.git"
+  },
+  "author": "Henry Kenji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henryueta/myFirstApiDeploy/issues"
+  },
+  "homepage": "https://github.com/henryueta/myFirstApiDeploy#readme"
+}
