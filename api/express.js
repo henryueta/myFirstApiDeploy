@@ -7,7 +7,7 @@ const app = express();
 const server = app.get("/users",async (req,res)=>{
 
     try{
-        const user = require('../src/model/user');
+        const user = require('./model/user');
         await res.status(200).json(user);
     }
     catch(error){
