@@ -15,7 +15,7 @@ const server = app.get("/users",async (req,res)=>{
     }
 })
 
-app.listen(port,(error)=>{
+app.listen(port,"::",(error)=>{
     if(error){
         return console.log(error);
     }
