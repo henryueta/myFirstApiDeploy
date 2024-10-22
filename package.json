@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/henryueta/myFirstApiDeploy/issues"
   },
-  "homepage": "https://github.com/henryueta/myFirstApiDeploy#readme"
+  "homepage": "https://github.com/henryueta/myFirstApiDeploy#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
